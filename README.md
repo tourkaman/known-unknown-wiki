@@ -1,7 +1,7 @@
 # known-unknown-wiki
 Red links. Wikipedia pages waiting to be started. Known unknowns.
 
-Backing the website [knownunknown.wiki](https://knownunknown.wiki).
+Backing the website [knownunknown.wiki](http://knownunknown.wiki).
 
 🧃🐫
   -  Red Link 1: [Quantitative\_type\_theory](https://en.wikipedia.org/wiki/Quantitative_type_theory)
